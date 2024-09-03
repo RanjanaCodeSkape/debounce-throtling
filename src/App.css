@@ -1,4 +1,15 @@
 #root {
 padding: 2rem;
-  /* text-align: center; */
+  text-align: center;
 }
+input{
+  padding: 10px 40px;
+  border: 2px solid gray;
+  border-top-right-radius: 10px;
+  margin-bottom: 20px;
+}
+input::placeholder{
+  margin-right: 40px ;
+}
+
+
